@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsvasconcelos)](https://github.com/anuraghazra/github-readme-stats)
 ### Olá, pessoal 👋
 👩‍💻 Sou um Desenvolvedor Web FullStack </br>
 💪 Trabalho desde os 12 anos como freelancer, meu foco são landing pages, sites institucionais e afins</br>
@@ -7,4 +8,5 @@
 🧠 Tenho bons conhecimentos em: HTML5, CSS, JS ES6, PHP LARAVEL, MYSQL, BOOTSTRAP, JQUERY, AJAX, PYTHON e Wordpress.</br>
 Sei utilizar ferramentas como Power Apps e Shopify</br>
 
+Meu e-mail: gbrielsvasconcelos@gmail.com
 
