@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsvasconcelos)](https://github.com/anuraghazra/github-readme-stats)
 ### Olá, pessoal 👋
 👩‍💻 Sou um Desenvolvedor Web FullStack </br>
 💪 Trabalho desde os 12 anos como freelancer, meu foco são landing pages, sites institucionais e afins</br>
