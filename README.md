@@ -2,21 +2,16 @@
 
 # Olá! Eu sou Gabriel Vasconcelos 👋
 
-### Software Engineer • PHP • Laravel • React • AWS • Fintech • SaaS
+### Software Engineer • Engenheiro Metalúrgico • PHP • Laravel • React • Python • AWS
 
-Desenvolvedor Full Stack especializado em sistemas financeiros, APIs REST, integrações de pagamento e aplicações escaláveis.
+Desenvolvedor de Software com experiência em **sistemas financeiros, APIs REST, integrações de pagamento, microsserviços, SaaS e automação de processos**.
 
-<a href="https://github.com/gabrielsvasconcelos">
-<img src="https://img.shields.io/github/followers/gabrielsvasconcelos?style=social">
-</a>
+🎓 **Engenharia Metalúrgica — UFC**
+🎓 **Habilitação em Engenharia de Materiais — UFC**
 
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+<br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,javascript,python,cs,dotnet,nodejs,mysql,postgres,redis,rabbitmq,docker,aws,linux,git,github" />
 
 </div>
 
@@ -24,85 +19,114 @@ Desenvolvedor Full Stack especializado em sistemas financeiros, APIs REST, integ
 
 # 👨‍💻 Sobre mim
 
-Sou Desenvolvedor de Software com mais de **6 anos de experiência** desenvolvendo sistemas web, plataformas SaaS e soluções financeiras.
+Sou **Software Engineer e Engenheiro Metalúrgico**, formado pela **Universidade Federal do Ceará (UFC)**, com habilitação em Engenharia de Materiais.
 
-Minha principal atuação é no desenvolvimento backend utilizando **PHP/Laravel**, construindo APIs escaláveis, microsserviços, integrações financeiras e aplicações de alta disponibilidade.
+Atuo no desenvolvimento de software desde **2018**, trabalhando principalmente com **backend, APIs REST, sistemas financeiros, integrações de pagamento, microsserviços e plataformas SaaS**.
 
-Também possuo experiência com desenvolvimento frontend utilizando **React**, infraestrutura em **AWS**, ambientes Docker e implantação de aplicações em produção.
+Minha principal stack profissional é baseada em **PHP e Laravel**, mas também possuo experiência com **React, Node.js, Python, bancos de dados relacionais, mensageria, Docker, AWS e ambientes Linux**.
 
-Atualmente trabalho desenvolvendo soluções para o mercado financeiro, participando desde a arquitetura até a entrega de funcionalidades críticas para processamento de pagamentos.
+Minha formação em engenharia também me proporcionou experiência com **automação, análise de processos e desenvolvimento de soluções computacionais para problemas industriais**.
+
+Gosto de atuar desde a definição da solução e arquitetura até o desenvolvimento, testes, implantação e evolução do sistema em produção.
+
+---
+
+# 🎓 Formação
+
+### 🏛️ Universidade Federal do Ceará — UFC
+
+**Engenharia Metalúrgica**
+2018
+
+**Habilitação em Engenharia de Materiais**
+2024
+
+Minha formação em engenharia complementa minha atuação em tecnologia principalmente nas áreas de **resolução de problemas, análise de processos, otimização e desenvolvimento de soluções**.
 
 ---
 
 # 💼 Experiência Profissional
 
 ## 💳 Paynet
-**Software Engineer**  
+
+**Software Engineer**
 **Jun/2025 — Atual**
 
-- Desenvolvimento e evolução de sistemas de meios de pagamento
-- Desenvolvimento de APIs REST em Laravel
-- Microsserviços
-- Integrações PIX, boleto e cartão
-- RabbitMQ
-- Docker
-- AWS
-- Otimização de performance
-- Suporte a ambientes críticos
+Atuação no desenvolvimento e evolução de sistemas para o mercado financeiro.
+
+* Desenvolvimento de APIs REST utilizando Laravel
+* Sistemas de pagamentos
+* Integrações financeiras
+* PIX, boleto e cartão
+* Microsserviços
+* RabbitMQ
+* Docker
+* AWS
+* Otimização de performance
+* Desenvolvimento e manutenção de sistemas críticos
+* Integrações entre serviços
+* Processamento assíncrono e mensageria
 
 ---
 
 ## 🏦 SyncPay
-**Software Engineer**  
+
+**Software Engineer**
 **Abr/2025 — Jun/2025**
 
-Projeto V2 de um Gateway de Pagamentos.
+Atuação no desenvolvimento da V2 de um gateway de pagamentos.
 
-Principais atividades:
-
-- Desenvolvimento do core da API
-- React
-- Laravel
-- RabbitMQ
-- SQS
-- Testes automatizados
-- Arquitetura de microsserviços
-- Sistemas antifraude
+* Desenvolvimento do core da API
+* Laravel
+* React
+* RabbitMQ
+* AWS SQS
+* Microsserviços
+* Testes automatizados
+* Sistemas antifraude
+* Integrações entre serviços
+* Arquitetura orientada a eventos
 
 ---
 
 ## 💰 DubPay
-**Software Engineer**
 
+**Software Engineer**
 **Mar/2024 — Abr/2025**
 
-- Laravel
-- React
-- Docker
-- DigitalOcean
-- Forge
-- Primefy
-- Asaas
-- Pagar.me
-- Correções de segurança
-- Pentests
-- Performance
+Desenvolvimento e manutenção de aplicações voltadas ao mercado financeiro.
+
+* PHP / Laravel
+* React
+* APIs REST
+* Docker
+* DigitalOcean
+* Laravel Forge
+* Integrações com gateways e provedores de pagamento
+* Primefy
+* Asaas
+* Pagar.me
+* Correções de segurança
+* Pentests
+* Otimização de aplicações
+* Manutenção de sistemas em produção
 
 ---
 
 ## 🏛️ Rodobank
 
 **Software Engineer**
-
 **Mai/2023 — Mai/2024**
 
-- Laravel
-- APIs REST
-- Webhooks
-- Eventos
-- Docker
-- Postman
-- Otimização de Queries
+* Desenvolvimento de APIs REST
+* Laravel
+* Webhooks
+* Eventos
+* Integrações financeiras
+* Docker
+* Postman
+* Otimização de queries
+* Integrações entre sistemas
 
 ---
 
@@ -110,72 +134,75 @@ Principais atividades:
 
 **Founder & Software Engineer**
 
-Plataforma SaaS para gestão de agendamentos.
+Plataforma SaaS desenvolvida para profissionais e empresas que trabalham com agendamentos.
 
-Principais funcionalidades:
+### Funcionalidades
 
-- Sistema de Agendamento
-- Plataforma Multiempresa
-- Página Pública Personalizada
-- Sistema de Pagamentos
-- Gestão de Clientes
-- Painel Administrativo
+* Agendamento online
+* Gestão de clientes
+* Gestão de equipes
+* Página pública personalizada
+* Sistema de pagamentos
+* Integração com PIX
+* Confirmação de agendamentos
+* Notificações
+* Relatórios financeiros
+* Painel administrativo
+* Plataforma multiempresa
 
-Stack
+### Stack
 
-Laravel • React • MySQL • Docker • AWS
+`Laravel` `React` `MySQL` `Docker` `AWS`
 
 ---
 
 ## 🏭 Aeris Energy
 
-**Process Engineering Intern**
+**Engineering / Software Development Intern**
 
-Desenvolvimento de um software em Python para otimização do corte de materiais compostos.
+Desenvolvimento de uma solução em **Python para automação e otimização de processos de engenharia**, trabalhando com dados e arquivos Excel utilizados diariamente pelo setor de Engenharia da Qualidade.
 
-Resultado:
+A solução automatizou etapas que anteriormente eram realizadas manualmente e permitiu otimizar o processamento das informações utilizadas pelo setor.
 
-- Economia aproximada de **R$ 500 mil** para a empresa.
+### Resultado
+
+💰 **Economia aproximada de R$ 500 mil para a empresa.**
+
+Essa experiência foi uma das minhas primeiras aplicações práticas de **Python, automação de processos e desenvolvimento de software para problemas reais de engenharia**.
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos
 
-## 💇 Agendeco
+## 📅 Agendeco
 
-Plataforma SaaS para profissionais autônomos.
+**SaaS para gestão de agendamentos**
 
-Tecnologias
+Plataforma desenvolvida para profissionais e empresas que precisam administrar clientes, serviços, agenda e pagamentos.
 
-- Laravel
-- React
-- Docker
-- AWS
-- MySQL
+**Tecnologias:**
 
-Recursos
-
-- Agenda online
-- Gestão de clientes
-- Página personalizada
-- Pagamentos
-- Painel administrativo
+`Laravel` `React` `MySQL` `Docker` `AWS`
 
 ---
 
 ## 🏭 ZeroSobra
 
-Software para otimização de cortes industriais.
+**Software de otimização de cortes industriais**
 
-Tecnologias
+Projeto voltado à otimização do aproveitamento de matéria-prima em processos industriais.
 
-- Python
+**Tecnologia:**
 
-Objetivos
+`Python`
 
-- Redução de desperdícios
-- Geração automática de planos de corte
-- Otimização de matéria-prima
+### Objetivos
+
+* Redução de desperdícios
+* Otimização de matéria-prima
+* Geração automática de planos de corte
+* Automação de cálculos
+* Melhoria da eficiência do processo
 
 ---
 
@@ -183,82 +210,143 @@ Objetivos
 
 ## Backend
 
-- PHP
-- Laravel
-- Node.js
-- APIs REST
-- Microsserviços
-- RabbitMQ
-- SQS
-- Webhooks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+* APIs REST
+* Microsserviços
+* Webhooks
+* Mensageria
+* Event Driven Architecture
+* Integrações de pagamento
+
+---
 
 ## Frontend
 
-- React
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+* React
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+
+---
 
 ## Banco de Dados
 
-- MySQL
-- PostgreSQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-## DevOps
+* MySQL
+* PostgreSQL
+* Redis
+* Modelagem de dados
+* Otimização de queries
 
-- Docker
-- AWS
-- Linux
-- Git
-- GitHub Actions
-- DigitalOcean
-- Laravel Forge
+---
 
-## Ferramentas
+## ☁️ Cloud & DevOps
 
-- Swagger / OpenAPI
-- Postman
-- Redis
-- WordPress
-- Shopify
-- Python
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
+* AWS
+* EC2
+* S3
+* SQS
+* Docker
+* Linux
+* DigitalOcean
+* Laravel Forge
+* CI/CD
+* GitHub Actions
+
+---
+
+## 📨 Mensageria
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+* RabbitMQ
+* Amazon SQS
+* Filas
+* Processamento assíncrono
+* Dead Letter Queues
+* Event Driven Architecture
+
+---
+
+## 🧰 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+
+* Git
+* GitHub
+* Postman
+* Swagger / OpenAPI
+* PHPUnit
+* Pest
+* Docker
+* WordPress
+* Shopify
 
 ---
 
 # 💳 Especialidades
 
-- Sistemas Financeiros
-- Gateways de Pagamento
-- APIs REST
-- Integrações PIX
-- Microsserviços
-- Arquitetura Backend
-- SaaS
-- Cloud Computing
-- Performance
-- Segurança de Aplicações
+* 🏦 Sistemas financeiros
+* 💰 Gateways de pagamento
+* 🔌 APIs REST
+* 🔄 Integrações PIX
+* 📨 Mensageria
+* 🧩 Microsserviços
+* ☁️ Cloud Computing
+* 🐳 Docker
+* 🚀 SaaS
+* ⚡ Performance
+* 🔐 Segurança de aplicações
+* 🤖 Automação com Python
+* 🏭 Software aplicado à engenharia
 
 ---
 
 # 📚 Atualmente estudando
 
-- Domain Driven Design (DDD)
-- Clean Architecture
-- Kubernetes
-- Event Driven Architecture
-- Observabilidade
-- Escalabilidade de Sistemas
+* **C# / .NET 8**
+* **Domain Driven Design (DDD)**
+* **Clean Architecture**
+* **Kubernetes**
+* **Event Driven Architecture**
+* **Observabilidade**
+* **Escalabilidade de sistemas**
+* **Laravel Octane**
+* **Telemetria**
+* **Arquitetura de sistemas distribuídos**
 
 ---
 
-# 📈 GitHub
+# 📊 GitHub
 
 <div align="center">
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsvasconcelos&show_icons=true&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsvasconcelos&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsvasconcelos&layout=compact&theme=github_dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsvasconcelos&layout=compact&hide_border=true&theme=github_dark"/>
 
 </div>
 
@@ -268,15 +356,15 @@ Objetivos
 
 📧 **Email**
 
-gbrielsvasconcelos@gmail.com
+[gbrielsvasconcelos@gmail.com](mailto:gbrielsvasconcelos@gmail.com)
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/gabrielsvasconcelos
+[linkedin.com/in/gabrielsvasconcelos](https://linkedin.com/in/gabrielsvasconcelos)
 
 💻 **GitHub**
 
-https://github.com/gabrielsvasconcelos
+[github.com/gabrielsvasconcelos](https://github.com/gabrielsvasconcelos)
 
 ---
 
